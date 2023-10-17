@@ -4,6 +4,7 @@ import os
 import psutil
 import csv
 
+# This python code makes a csv file with a list of all processes info along with the resources used 
 
 process_list = []
 # Iterate through all running processes and it retrieves information about each process
